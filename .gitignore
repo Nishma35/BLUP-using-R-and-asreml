@@ -1,0 +1,14 @@
+# Data and outputs (not shared)
+*.csv
+*.xlsx
+*.docx
+*.png
+*.png111
+
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
+
+# ASReml licence files
+*.lic
